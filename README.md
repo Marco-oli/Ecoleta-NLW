@@ -107,7 +107,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/leon-carvalho/Ecoleta
+$ git clone https://github.com/Marco-oli/Ecoleta-NLW
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Ecoleta
@@ -162,7 +162,7 @@ $ npm run start
 
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA](license) para saber mais.
 
-Feito com ❤️ por Leonardo Carvalho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/leonardo-dev/)
+Feito com ❤️ por Marco Aurélio 👋🏽 [Entre em contato!](https://www.linkedin.com/in/marcoaurelio-frontend/)
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
